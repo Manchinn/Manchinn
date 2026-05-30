@@ -1,33 +1,66 @@
-# Hi there 👋 I'm Chinnakrit
+<div align="center">
 
-AI-Powered Full Stack Developer from Thailand 🇹🇭
+<br>
 
-I build AI agents, developer tools, prompt systems, and modern web applications.
+# Chinnakrit Sripan
 
-Currently focused on:
+**AI-Powered Full Stack Developer** · AI Agents · Prompt Engineering · Developer Tools
 
-* 🤖 AI Agents & Workflow Automation
-* 🧠 Prompt Engineering
-* ⚡ AI-Powered Developer Tools
-* 🌐 Full Stack Web Development
-* 🎬 AI Video Generation & Content Automation
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI+agents+%26+automation+tools;Creating+prompt+workflows+for+AI+coding+agents;Next.js+%7C+TypeScript+%7C+Node.js+%7C+AI+Tools" alt="Typing Animation">
+
+<br>
+
+<a href="https://chinnakrit.dev">
+  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
+</a>
+<a href="https://prompts.chinnakrit.dev">
+  <img src="https://img.shields.io/badge/Prompt_Library-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" alt="Prompt Library">
+</a>
+<a href="https://github.com/chinnakrit150">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science student and independent developer passionate about building practical AI products.
+> **Chinnakrit Sripan** · Bangkok, Thailand 🇹🇭
 
-My interests include:
+I'm a Computer Science student and independent developer focused on building practical AI-powered products.
 
-* AI Agents
-* Prompt Engineering
-* Automation Systems
-* Developer Experience (DX)
-* Full Stack Development
-* AI Content Generation
+I work with modern web technologies, AI coding agents, automation workflows, and developer tools.  
+My current direction is combining **Full Stack Development** with **AI Agents**, **Prompt Engineering**, and **AI Workflow Automation**.
 
-I enjoy exploring new AI workflows and transforming ideas into working products using modern technologies.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🎯 Current Focus
+
+```text
+🤖 Building AI agent systems
+🧠 Creating prompt workflows for developers
+⚡ Developing AI-powered automation tools
+🌐 Building modern Next.js applications
+🎬 Exploring AI video generation workflows
+```
+
+  </td>
+  <td valign="top" width="50%">
+
+### 🚀 Quick Highlights
+
+- 🧠 Creator of **Prompt Library**
+- 🤖 Building **Hermes Agent**
+- 🎬 Experimenting with **AI Video Lab**
+- 🛠️ Interested in AI integration, automation, and developer tools
+- 💼 Open to freelance / contract development work
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -35,135 +68,200 @@ I enjoy exploring new AI workflows and transforming ideas into working products 
 
 ### 🧠 Prompt Library
 
-Production-grade prompt workflows for AI Coding Agents.
+> Production-grade prompt workflows for AI Coding Agents.
 
-Built for:
+**Prompt Library** is a curated platform for developers who use AI coding agents such as Claude Code, Codex, and Gemini CLI.
 
-* Claude Code
-* Codex
-* Gemini CLI
-* AI Developers
+It focuses on turning real development workflows into reusable prompt systems.
 
-Features:
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-* Curated prompt collection
-* Repository intelligence
-* Reverse-engineered workflows
-* Practical AI development guides
+**What it does**
 
-🔗 https://prompts.chinnakrit.dev
+- Curates useful AI coding prompts
+- Organizes prompts by use case
+- Collects AI development workflows
+- Helps developers copy, adapt, and run prompts faster
+- Supports Claude Code, Codex, and Gemini workflows
+
+  </td>
+  <td valign="top" width="50%">
+
+**Focus Areas**
+
+- Prompt Engineering
+- AI Coding Agents
+- Repository Intelligence
+- Developer Productivity
+- Workflow Automation
+
+  </td>
+  </tr>
+</table>
+
+🔗 **Live:** https://prompts.chinnakrit.dev
 
 ---
 
 ### 🤖 Hermes Agent
 
-Personal AI Assistant Platform powered by AI Agents and LINE integration.
+> Personal AI assistant platform powered by agents and LINE integration.
 
-Features:
+**Hermes Agent** is a personal assistant system designed to connect AI agents with real-world notifications, tasks, and internal APIs.
 
-* Agent orchestration
-* LINE notifications
-* Task automation
-* Internal API integrations
-* Multi-agent architecture
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-Tech:
+**Features**
 
-* Node.js
-* Docker
-* Nginx
-* AI Agents
+- LINE webhook integration
+- Personal assistant workflow
+- Internal event API
+- Agent command handling
+- Notification system
+
+  </td>
+  <td valign="top" width="50%">
+
+**Tech Direction**
+
+- AI Agents
+- Node.js
+- Docker
+- Nginx
+- Webhooks
+- Automation
+
+  </td>
+  </tr>
+</table>
 
 ---
 
 ### 🎬 AI Video Lab
 
-AI-powered video generation toolkit.
+> AI-powered video generation workflow for TikTok, Reels, and short-form content.
 
-Supports:
+**AI Video Lab** is an experimental toolkit for generating short-form videos using AI models and scripted workflows.
 
-* Text-to-Video
-* Image-to-Video
-* TikTok/Reels workflow
-* Automated content generation
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-Models:
+**Supported Workflows**
 
-* VEO
-* Sora
-* Grok Video
+- Text-to-video generation
+- Image-to-video generation
+- Prompt-based content generation
+- TikTok / Reels video workflow
+- AI product video experiments
+
+  </td>
+  <td valign="top" width="50%">
+
+**Focus Areas**
+
+- AI Video Generation
+- Content Automation
+- Prompt Design
+- Short-form Video
+- Product Content
+
+  </td>
+  </tr>
+</table>
 
 ---
 
 ### 🌐 Portfolio Website
 
-Personal portfolio showcasing projects, experiments, and development journey.
+> Personal portfolio website for projects, experiments, and developer profile.
 
-🔗 https://chinnakrit.dev
+🔗 **Live:** https://chinnakrit.dev
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge\&logo=tailwindcss)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117" alt="Tailwind CSS">
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117" alt="Express.js">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL">
+</p>
 
-### AI & Automation
+### AI & Developer Tools
 
-![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge)
-![Codex](https://img.shields.io/badge/Codex-black?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-black?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/AI_Agents-58A6FF?style=for-the-badge&labelColor=0d1117" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Prompt Engineering">
+</p>
 
-### DevOps
+### DevOps & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge\&logo=nginx)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge\&logo=githubactions)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinnakrit150\&show_icons=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinnakrit150\&layout=compact\&theme=transparent)
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" alt="Linux">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0d1117" alt="Nginx">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="GitHub Actions">
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Stats
 
-* Building Prompt Library Platform
-* AI Agent Systems
-* Repository Intelligence
-* AI Content Automation
-* Full Stack SaaS Development
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chinnakrit150&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats" width="480">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnakrit150&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" width="480">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinnakrit150&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="700">
+
+</div>
 
 ---
 
 ## 📫 Contact
 
-🌐 Portfolio
-https://chinnakrit.dev
+<div align="center">
 
-🧠 Prompt Library
-https://prompts.chinnakrit.dev
+<a href="https://chinnakrit.dev">
+  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
+</a>
+<a href="https://prompts.chinnakrit.dev">
+  <img src="https://img.shields.io/badge/Prompt_Library-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" alt="Prompt Library">
+</a>
+<a href="https://github.com/chinnakrit150">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
+</a>
 
-🐙 GitHub
-https://github.com/chinnakrit150
+<br>
+<br>
 
----
+<pre>
+┌──(chinnakrit㉿github)-[~/profile]
+└─$ echo "Building useful AI products one project at a time"
+</pre>
 
-> Building useful AI products one project at a time 🚀
+</div>
