@@ -199,9 +199,6 @@ Public developer profile, project archive, and identity pages for showing work w
 <br>
 <br>
 
-<pre>
-┌──(chinnakrit@github)-[~/profile]
-└─$ echo "Building useful AI products one project at a time"
-</pre>
+Built around AI agents, automation, and practical full-stack systems.
 
 </div>
