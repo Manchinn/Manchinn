@@ -13,10 +13,13 @@
 <a href="https://chinnakrit.dev">
   <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
 </a>
+<a href="https://manchinn.github.io">
+  <img src="https://img.shields.io/badge/GitHub_Pages-Identity_Hub-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" alt="GitHub Pages Identity Hub">
+</a>
 <a href="https://prompts.chinnakrit.dev">
   <img src="https://img.shields.io/badge/Prompt_Library-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" alt="Prompt Library">
 </a>
-<a href="https://github.com/chinnakrit150">
+<a href="https://github.com/Manchinn">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
 </a>
 
@@ -180,7 +183,11 @@ It focuses on turning real development workflows into reusable prompt systems.
 
 > Personal portfolio website for projects, experiments, and developer profile.
 
-🔗 **Live:** https://chinnakrit.dev
+- `chinnakrit.dev` = full portfolio
+- `manchinn.github.io` = lightweight GitHub Pages identity hub
+
+🔗 **Full Portfolio:** https://chinnakrit.dev  
+🔗 **Identity Hub:** https://manchinn.github.io
 
 ---
 
@@ -228,15 +235,15 @@ It focuses on turning real development workflows into reusable prompt systems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chinnakrit150&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats" width="480">
+<img src="https://github-readme-stats.vercel.app/api?username=Manchinn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats" width="480">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnakrit150&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" width="480">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manchinn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" width="480">
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinnakrit150&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="700">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manchinn&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="700">
 
 </div>
 
@@ -249,10 +256,13 @@ It focuses on turning real development workflows into reusable prompt systems.
 <a href="https://chinnakrit.dev">
   <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
 </a>
+<a href="https://manchinn.github.io">
+  <img src="https://img.shields.io/badge/GitHub_Pages-Identity_Hub-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" alt="GitHub Pages Identity Hub">
+</a>
 <a href="https://prompts.chinnakrit.dev">
   <img src="https://img.shields.io/badge/Prompt_Library-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" alt="Prompt Library">
 </a>
-<a href="https://github.com/chinnakrit150">
+<a href="https://github.com/Manchinn">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
 </a>
 
