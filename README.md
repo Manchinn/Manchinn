@@ -1,65 +1,64 @@
 <div align="center">
 
-<br>
-
-# Chinnakrit Sripan
-
-**AI-Powered Full Stack Developer** · AI Agents · Prompt Engineering · Developer Tools
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI+agents+%26+automation+tools;Creating+prompt+workflows+for+AI+coding+agents;Next.js+%7C+TypeScript+%7C+Node.js+%7C+AI+Tools" alt="Typing Animation">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Chinnakrit+Sripan;AI+Automation+%26+Full-stack+Systems+Builder;AI+Agents+%7C+Prompt+Engineering+%7C+Developer+Tools" alt="Typing headline">
 
 <br>
 
-<a href="https://chinnakrit.dev">
-  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
-</a>
-<a href="https://manchinn.github.io">
-  <img src="https://img.shields.io/badge/GitHub_Pages-Identity_Hub-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" alt="GitHub Pages Identity Hub">
-</a>
-<a href="https://prompts.chinnakrit.dev">
-  <img src="https://img.shields.io/badge/Prompt_Library-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" alt="Prompt Library">
-</a>
-<a href="https://github.com/Manchinn">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
-</a>
+### Building practical AI-powered products, automation systems, and developer workflows.
+
+<p>
+  <a href="https://chinnakrit.dev">
+    <img src="https://img.shields.io/badge/Portfolio-chinnakrit.dev-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
+  </a>
+  <a href="https://prompts.chinnakrit.dev">
+    <img src="https://img.shields.io/badge/Prompt_Library-Live-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" alt="Prompt Library">
+  </a>
+  <a href="https://manchinn.github.io">
+    <img src="https://img.shields.io/badge/Identity_Hub-GitHub_Pages-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" alt="Identity Hub">
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Manchinn&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/Manchinn?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=58A6FF" alt="GitHub followers">
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-> **Chinnakrit Sripan** · Bangkok, Thailand 🇹🇭
+> **Chinnakrit Sripan** · Computer Science student · Bangkok, Thailand
 
-I'm a Computer Science student and independent developer focused on building practical AI-powered products.
-
-I work with modern web technologies, AI coding agents, automation workflows, and developer tools.  
-My current direction is combining **Full Stack Development** with **AI Agents**, **Prompt Engineering**, and **AI Workflow Automation**.
+I build small, useful systems around modern web apps, AI coding agents, automation workflows, and internal tools. My current direction combines **Full-stack Development**, **AI Agents**, **Prompt Engineering**, and **AI Workflow Automation**.
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
 
-### 🎯 Current Focus
+### Current Focus
 
 ```text
-🤖 Building AI agent systems
-🧠 Creating prompt workflows for developers
-⚡ Developing AI-powered automation tools
-🌐 Building modern Next.js applications
-🎬 Exploring AI video generation workflows
+AI agent systems
+Prompt workflows for developers
+AI-powered automation tools
+Next.js / TypeScript applications
+Short-form AI video workflows
 ```
 
   </td>
-  <td valign="top" width="50%">
+  <td width="50%" valign="top">
 
-### 🚀 Quick Highlights
+### Working Style
 
-- 🧠 Creator of **Prompt Library**
-- 🤖 Building **Hermes Agent**
-- 🎬 Experimenting with **AI Video Lab**
-- 🛠️ Interested in AI integration, automation, and developer tools
-- 💼 Open to freelance / contract development work
+```text
+Build practical MVPs
+Turn workflows into reusable systems
+Connect AI tools with real operations
+Keep projects public-safe and maintainable
+Ship, review, improve
+```
 
   </td>
   </tr>
@@ -67,76 +66,49 @@ My current direction is combining **Full Stack Development** with **AI Agents**,
 
 ---
 
-## 🌟 Featured Projects
-
-### 🧠 Prompt Library
-
-> Production-grade prompt workflows for AI Coding Agents.
-
-**Prompt Library** is a curated platform for developers who use AI coding agents such as Claude Code, Codex, and Gemini CLI.
-
-It focuses on turning real development workflows into reusable prompt systems.
+## Featured Work
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
 
-**What it does**
+### Prompt Library
 
-- Curates useful AI coding prompts
-- Organizes prompts by use case
-- Collects AI development workflows
-- Helps developers copy, adapt, and run prompts faster
-- Supports Claude Code, Codex, and Gemini workflows
+Production-grade prompt workflows for AI coding agents such as Claude Code, Codex, and Gemini CLI.
+
+**Focus:** Prompt Engineering, AI Coding Agents, Repository Intelligence, Developer Productivity
+
+**Live:** https://prompts.chinnakrit.dev
 
   </td>
-  <td valign="top" width="50%">
+  <td width="50%" valign="top">
 
-**Focus Areas**
+### Hermes Agent
 
-- Prompt Engineering
-- AI Coding Agents
-- Repository Intelligence
-- Developer Productivity
-- Workflow Automation
+Personal assistant system for connecting AI agents with LINE notifications, tasks, internal APIs, and event workflows.
+
+**Focus:** AI Agents, Node.js, Webhooks, Docker, Nginx, Automation
 
   </td>
   </tr>
-</table>
-
-🔗 **Live:** https://prompts.chinnakrit.dev
-
----
-
-### 🤖 Hermes Agent
-
-> Personal AI assistant platform powered by agents and LINE integration.
-
-**Hermes Agent** is a personal assistant system designed to connect AI agents with real-world notifications, tasks, and internal APIs.
-
-<table>
   <tr>
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
 
-**Features**
+### AI Video Lab
 
-- LINE webhook integration
-- Personal assistant workflow
-- Internal event API
-- Agent command handling
-- Notification system
+Experimental toolkit for AI-assisted short-form video workflows, prompt-based content generation, and product video experiments.
+
+**Focus:** AI Video, Content Automation, Prompt Design, TikTok / Reels workflows
 
   </td>
-  <td valign="top" width="50%">
+  <td width="50%" valign="top">
 
-**Tech Direction**
+### Portfolio / Identity Hub
 
-- AI Agents
-- Node.js
-- Docker
-- Nginx
-- Webhooks
-- Automation
+Public developer profile, project archive, and identity pages for showing work without exposing private implementation details.
+
+**Portfolio:** https://chinnakrit.dev  
+**Hub:** https://manchinn.github.io
 
   </td>
   </tr>
@@ -144,54 +116,9 @@ It focuses on turning real development workflows into reusable prompt systems.
 
 ---
 
-### 🎬 AI Video Lab
+## Tech Stack
 
-> AI-powered video generation workflow for TikTok, Reels, and short-form content.
-
-**AI Video Lab** is an experimental toolkit for generating short-form videos using AI models and scripted workflows.
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-**Supported Workflows**
-
-- Text-to-video generation
-- Image-to-video generation
-- Prompt-based content generation
-- TikTok / Reels video workflow
-- AI product video experiments
-
-  </td>
-  <td valign="top" width="50%">
-
-**Focus Areas**
-
-- AI Video Generation
-- Content Automation
-- Prompt Design
-- Short-form Video
-- Product Content
-
-  </td>
-  </tr>
-</table>
-
----
-
-### 🌐 Portfolio Website
-
-> Personal portfolio website for projects, experiments, and developer profile.
-
-- `chinnakrit.dev` = full portfolio
-- `manchinn.github.io` = lightweight GitHub Pages identity hub
-
-🔗 **Full Portfolio:** https://chinnakrit.dev  
-🔗 **Identity Hub:** https://manchinn.github.io
-
----
-
-## 🛠️ Tech Stack
+<div align="center">
 
 ### Frontend
 
@@ -202,25 +129,26 @@ It focuses on turning real development workflows into reusable prompt systems.
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117" alt="Tailwind CSS">
 </p>
 
-### Backend
+### Backend & Data
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117" alt="Express.js">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL">
+  <img src="https://img.shields.io/badge/API_Design-58A6FF?style=for-the-badge&labelColor=0d1117" alt="API Design">
 </p>
 
 ### AI & Developer Tools
 
 <p>
+  <img src="https://img.shields.io/badge/AI_Agents-58A6FF?style=for-the-badge&labelColor=0d1117" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Prompt Engineering">
   <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
   <img src="https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
   <img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/AI_Agents-58A6FF?style=for-the-badge&labelColor=0d1117" alt="AI Agents">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Prompt Engineering">
 </p>
 
-### DevOps & Infrastructure
+### Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker">
@@ -229,13 +157,15 @@ It focuses on turning real development workflows into reusable prompt systems.
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="GitHub Actions">
 </p>
 
+</div>
+
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manchinn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats" width="480">
+<img src="https://github-readme-stats.vercel.app/api?username=Manchinn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" width="480">
 
 <br>
 
@@ -243,24 +173,24 @@ It focuses on turning real development workflows into reusable prompt systems.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manchinn&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="700">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manchinn&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="760">
 
 </div>
 
 ---
 
-## 📫 Contact
+## Connect
 
 <div align="center">
 
 <a href="https://chinnakrit.dev">
   <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
 </a>
-<a href="https://manchinn.github.io">
-  <img src="https://img.shields.io/badge/GitHub_Pages-Identity_Hub-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" alt="GitHub Pages Identity Hub">
-</a>
 <a href="https://prompts.chinnakrit.dev">
   <img src="https://img.shields.io/badge/Prompt_Library-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" alt="Prompt Library">
+</a>
+<a href="https://manchinn.github.io">
+  <img src="https://img.shields.io/badge/GitHub_Pages-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" alt="GitHub Pages">
 </a>
 <a href="https://github.com/Manchinn">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
@@ -270,7 +200,7 @@ It focuses on turning real development workflows into reusable prompt systems.
 <br>
 
 <pre>
-┌──(chinnakrit㉿github)-[~/profile]
+┌──(chinnakrit@github)-[~/profile]
 └─$ echo "Building useful AI products one project at a time"
 </pre>
 
