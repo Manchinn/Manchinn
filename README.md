@@ -172,15 +172,15 @@ Interactive developer identity hub and multi-track role resume (Full-stack / Fro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manchinn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" width="480">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manchinn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" width="480">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manchinn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" width="480">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manchinn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" width="480">
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manchinn&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" width="760">
+<img src="https://streak-stats.demolab.com?user=Manchinn&theme=github_dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="480">
 
 </div>
 
