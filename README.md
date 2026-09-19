@@ -1,20 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Chinnakrit+Sripan;AI+Automation+%26+Full-stack+Systems+Builder;AI+Agents+%7C+Prompt+Engineering+%7C+Developer+Tools" alt="Typing headline">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Chinnakrit+Sripan;Full-stack+Developer;React+%2F+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+SQL" alt="Typing headline">
 
 <br>
 
-### Building practical AI-powered products, automation systems, and developer workflows.
+### Building practical full-stack web applications, robust APIs, and developer automation systems.
 
 <p>
-  <a href="https://chinnakrit.dev">
+  <a href="https://www.chinnakrit.dev">
     <img src="https://img.shields.io/badge/Portfolio-chinnakrit.dev-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
+  </a>
+  <a href="https://manchinn.github.io/resume/">
+    <img src="https://img.shields.io/badge/Resume-Interactive-2EA44F?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=0d1117" alt="Resume">
   </a>
   <a href="https://prompts.chinnakrit.dev">
     <img src="https://img.shields.io/badge/Prompt_Library-Live-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" alt="Prompt Library">
   </a>
-  <a href="https://manchinn.github.io">
-    <img src="https://img.shields.io/badge/Identity_Hub-GitHub_Pages-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" alt="Identity Hub">
+  <a href="https://www.linkedin.com/in/chinnakrit-sripan-4674a436a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
   </a>
 </p>
 
@@ -29,22 +32,22 @@
 
 ## About
 
-> **Chinnakrit Sripan** · Computer Science student · Bangkok, Thailand
+> **Chinnakrit Sripan** · Full-stack Developer · Bangkok, Thailand
 
-I build small, useful systems around modern web apps, AI coding agents, automation workflows, and internal tools. My current direction combines **Full-stack Development**, **AI Agents**, **Prompt Engineering**, and **AI Workflow Automation**.
+Junior Full-stack Developer with hands-on experience building and deploying real web applications using React.js, Next.js, TypeScript, Node.js, Express, and relational databases. Experienced in API integration, database-backed dashboards, authentication workflows, Dockerized VPS deployments, and modern AI developer tooling.
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### Current Focus
+### Core Focus
 
 ```text
-AI agent systems
-Prompt workflows for developers
-AI-powered automation tools
-Next.js / TypeScript applications
-Short-form AI video workflows
+Full-stack Web Applications (React / Next.js / Node.js)
+RESTful API Design & Database Integration (MySQL / PostgreSQL)
+Authentication & Role-Based Access Control (JWT / RBAC)
+Containerization & Deployment (Docker, Nginx, Linux VPS, CI/CD)
+AI Agent Tooling, Hermes Plugins & Developer Workflows
 ```
 
   </td>
@@ -53,11 +56,11 @@ Short-form AI video workflows
 ### Working Style
 
 ```text
-Build practical MVPs
-Turn workflows into reusable systems
-Connect AI tools with real operations
-Keep projects public-safe and maintainable
-Ship, review, improve
+Build practical, end-to-end working systems
+Hands-on across frontend, backend, DB, and DevOps
+Verify-before-claim with real test and runtime logs
+Write clean, maintainable, and public-safe code
+Fast learner, adaptable to product & business specs
 ```
 
   </td>
@@ -72,42 +75,44 @@ Ship, review, improve
   <tr>
     <td width="50%" valign="top">
 
-### Prompt Library
+### CSLogbook
 
-Production-grade prompt workflows for AI coding agents such as Claude Code, Codex, and Gemini CLI.
+Progress tracking and activity management web application for student internships and academic projects.
 
-**Focus:** Prompt Engineering, AI Coding Agents, Repository Intelligence, Developer Productivity
-
-**Live:** https://prompts.chinnakrit.dev
+**Focus:** Full-stack Development, Auth/RBAC, Activity Logs, Relational Database, Docker, Nginx, Linux VPS, GitHub Actions  
+**Repo:** [`CSLogbook`](https://github.com/Manchinn/CSLogbook)
 
   </td>
   <td width="50%" valign="top">
 
-### Hermes Agent
+### Hermes Desktop Plugins
 
-Personal assistant system for connecting AI agents with LINE notifications, tasks, internal APIs, and event workflows.
+Production plugins for Hermes Desktop: **OmniRoute Dashboard** & **MaxPlus Credit Monitor** built with `@hermes/plugin-sdk`, real-time usage metrics, and automated QA test suites.
 
-**Focus:** AI Agents, Node.js, Webhooks, Docker, Nginx, Automation
+**Focus:** AI Agent Tooling, Node.js, Frontend UI, Plugin Architecture, QA Validation  
+**Repos:** [`hermes-omniroute`](https://github.com/Manchinn/hermes-omniroute) · [`hermes-maxplus-credit`](https://github.com/Manchinn/hermes-maxplus-credit)
 
   </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### AI Video Lab
+### Prompt Workflows & AI Tooling
 
-Experimental toolkit for AI-assisted short-form video workflows, prompt-based content generation, and product video experiments.
+Production-tested prompt systems and developer workflows for AI coding agents (Claude Code, Codex, Gemini CLI, Hermes).
 
-**Focus:** AI Video, Content Automation, Prompt Design, TikTok / Reels workflows
+**Focus:** Prompt Engineering, Developer Productivity, Workflow Automation  
+**Live:** https://prompts.chinnakrit.dev
 
   </td>
   <td width="50%" valign="top">
 
-### Portfolio / Identity Hub
+### Identity Hub & Resume
 
-Public developer profile, project archive, and identity pages for showing work without exposing private implementation details.
+Interactive developer identity hub and multi-track role resume (Full-stack / Frontend / Backend).
 
-**Portfolio:** https://chinnakrit.dev  
+**Portfolio:** https://www.chinnakrit.dev  
+**Resume:** https://manchinn.github.io/resume/  
 **Hub:** https://manchinn.github.io
 
   </td>
@@ -123,38 +128,40 @@ Public developer profile, project archive, and identity pages for showing work w
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" alt="Next.js">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" alt="Next.js">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" alt="JavaScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117" alt="Tailwind CSS">
 </p>
 
-### Backend & Data
+### Backend & Databases
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117" alt="Express.js">
+  <img src="https://img.shields.io/badge/REST_API-58A6FF?style=for-the-badge&labelColor=0d1117" alt="REST API">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL">
-  <img src="https://img.shields.io/badge/API_Design-58A6FF?style=for-the-badge&labelColor=0d1117" alt="API Design">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" alt="PostgreSQL">
+</p>
+
+### Infrastructure & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" alt="Linux VPS">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0d1117" alt="Nginx">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="GitHub Actions">
 </p>
 
 ### AI & Developer Tools
 
 <p>
-  <img src="https://img.shields.io/badge/AI_Agents-58A6FF?style=for-the-badge&labelColor=0d1117" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Hermes_Agent-58A6FF?style=for-the-badge&labelColor=0d1117" alt="Hermes Agent">
+  <img src="https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Codex_CLI-0d1117?style=for-the-badge&logo=openai&logoColor=white" alt="Codex CLI">
+  <img src="https://img.shields.io/badge/Gemini_CLI-0d1117?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini CLI">
   <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Prompt Engineering">
-  <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
-  <img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
-</p>
-
-### Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" alt="Linux">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0d1117" alt="Nginx">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="GitHub Actions">
 </p>
 
 </div>
@@ -183,14 +190,20 @@ Public developer profile, project archive, and identity pages for showing work w
 
 <div align="center">
 
-<a href="https://chinnakrit.dev">
+<a href="https://www.chinnakrit.dev">
   <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
+</a>
+<a href="https://manchinn.github.io/resume/">
+  <img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=0d1117" alt="Resume">
 </a>
 <a href="https://prompts.chinnakrit.dev">
   <img src="https://img.shields.io/badge/Prompt_Library-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117" alt="Prompt Library">
 </a>
 <a href="https://manchinn.github.io">
-  <img src="https://img.shields.io/badge/GitHub_Pages-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" alt="GitHub Pages">
+  <img src="https://img.shields.io/badge/Identity_Hub-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117" alt="Identity Hub">
+</a>
+<a href="https://www.linkedin.com/in/chinnakrit-sripan-4674a436a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
 </a>
 <a href="https://github.com/Manchinn">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
@@ -199,6 +212,6 @@ Public developer profile, project archive, and identity pages for showing work w
 <br>
 <br>
 
-Built around AI agents, automation, and practical full-stack systems.
+Building practical full-stack web applications and developer tooling.
 
 </div>
